@@ -1,0 +1,14 @@
+# Discord.py 2.x with voice support
+discord.py[voice]>=2.3.2
+
+# Async SQLite database
+aiosqlite>=0.19.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Async HTTP requests
+aiohttp>=3.9.0
+
+# Additional utilities
+typing-extensions>=4.8.0
